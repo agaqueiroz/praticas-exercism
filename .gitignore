@@ -1,0 +1,17 @@
+# Rust
+target/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Java / Gradle
+.gradle/
+build/
+
+# Editores / SO
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
